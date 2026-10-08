@@ -22,6 +22,14 @@
 
 **尚未處理／未驗證**：預錄影片（`.sfd`）中的日文；尚未在 Dolphin 實機遊玩測試（只做了讀回驗證）。
 
+## 下載與安裝
+
+到 [Releases](../../releases) 下載 `.xdelta` 補丁（壓縮檔內附 README）：
+
+1. 準備未修改的日版 ISO（`.rvz` 先用 Dolphin「轉換檔案」轉回 ISO）。
+2. 用 Delta Patcher 或 `xdelta3 -d -s 原版.iso 補丁.xdelta 中文版.iso` 套用。
+3. 用 Dolphin 開啟，遊戲語言維持日文。
+
 ## 建置
 
 需要：Python 3.12（Pillow、numpy、capstone）、Noto Sans TC（`C:/Windows/Fonts/NotoSansTC-VF.ttf`）、Dolphin 的 `DolphinTool.exe`。
@@ -34,6 +42,7 @@ PYTHONUTF8=1 python tools/tex.py scan     # work/tex/index.json：貼圖 id 索�
 PYTHONUTF8=1 python tools/build.py        # work/build/files
 PYTHONUTF8=1 python tools/verify.py --png work/preview.png
 PYTHONUTF8=1 python tools/make_iso.py     # out/SonicHeroes_zh-TW.iso
+PYTHONUTF8=1 python tools/package.py v1.0 # out/*.xdelta（套用驗證）+ README.txt + zip；需要 xdelta3（work/bin/xdelta3.exe 或 XDELTA3）
 ```
 
 貼圖流程見 `TEXTURES.md`（`tools/tex.py show / preview`）。翻譯流程見 `TRANSLATE.md`（`tools/tl.py next / commit`）。用語表 `text/glossary.json`，翻譯記憶 `text/tm.json`，譯文 `text/zh/*.json`，中文字碼表 `text/charmap.json`（不可變動）。
