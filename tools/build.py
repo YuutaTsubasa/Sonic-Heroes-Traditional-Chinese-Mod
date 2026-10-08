@@ -234,7 +234,9 @@ def main():
     build_banner()
     import texbuild
     texbuild.build(write, REPORT)
-    build_bosses()
+    # Boss / stage title cards keep the big English lettering: the Japanese release already pairs it with a
+    # name bar (now Chinese), so a Chinese big title would show the name twice. build_bosses() is kept for
+    # reference (anchor-letter trick) but not used.
     cmap.save()
     REPORT['removed'] = sorted(set(REPORT.get('removed', [])))
     json.dump(REPORT, open(os.path.join(ROOT, 'work', 'build_report.json'), 'w', encoding='utf-8'),

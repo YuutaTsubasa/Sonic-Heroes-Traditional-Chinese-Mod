@@ -16,7 +16,7 @@
 | 關卡中語音字幕、玩具巧歐提示（27 檔） | `font/hint*.bin` + `font/hint*.txt/NN.bmp/NN.met` | 重建 .bin；每檔重新產生字型頁（最多 16 頁） |
 | 系統／記憶卡訊息（238 句） | `text/TextJapanese.utx` + `advertise/sega.prs` | UTF-16 文字；在 Unicode 點陣字型中重繪或替換字形 |
 | 選單、關卡名、隊伍、結算等貼圖（258 張，326 個副本） | `advertise/J/*.one`、`stgtitle/*.one`、`*_disp*.one` | 每張一份 `text/tex/<id>.json`（擦除＋重畫），重新編碼回原 GX 格式（C4/C8 沿用調色盤並把新色放進空槽、CMPR 只重壓有變動的區塊），重算 mipmap，PRS 重壓 |
-| 關卡標題卡（關卡名、MISSION、SUPER HARD、SPECIAL STAGE、Stage） | `stgtitle/*title_disp*.one` | 兩行關卡名分別寫進 stgttl_020／018；Boss 名稱：字母是共用貼圖、重複字母由動畫重複繪製，所以改成「錨點字母」法（`tools/boss.py`）：選一個只出現一次、靠近中間的字母，把它在 Maestro 動畫（BOSSSTGTITLE.ANM 的 0x1A1 形狀）裡的四邊形加寬為 128×32、貼圖換成 256×64 的中文名稱，其餘字母貼圖清成透明 |
+| 關卡標題卡（MISSION、EXTRA MISSION、SUPER HARD、Stage） | `stgtitle/*title_disp*.one` | 關卡名與 Boss 名的大字維持英文：日版本來就是「大字英文＋日文名稱條」，名稱條已改成中文，避免同一名稱出現兩次（`tools/boss.py` 保留錨點字母法作參考，未啟用） |
 | 任務說明（78 句，122 檔） | `stgtitle/mission/*J00.bmp` | `text/mission.json`，用字幕字型重畫 |
 | 光碟橫幅、記憶卡存檔說明 | `opening.bnr`、`main.dol` | Shift-JIS 可表示的繁體字 |
 
