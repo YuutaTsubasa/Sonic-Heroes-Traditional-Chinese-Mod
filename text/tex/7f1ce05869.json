@@ -1,0 +1,33 @@
+{
+ "erase": [
+  {
+   "rect": [
+    24,
+    5,
+    201,
+    35
+   ],
+   "mode": "interp"
+  }
+ ],
+ "blocks": [
+  {
+   "rect": [
+    27,
+    6,
+    300,
+    34
+   ],
+   "zh": "機器人風暴",
+   "weight": 900,
+   "color": "#ffffff",
+   "align": "left",
+   "spacing": 1,
+   "shadow": {
+    "dx": 2,
+    "dy": 2,
+    "color": "#8a0000c8"
+   }
+  }
+ ]
+}

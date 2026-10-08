@@ -1,0 +1,29 @@
+{
+ "erase": [
+  {
+   "rect": [
+    50,
+    47,
+    215,
+    69
+   ],
+   "mode": "interp"
+  }
+ ],
+ "blocks": [
+  {
+   "rect": [
+    55,
+    48,
+    211,
+    68
+   ],
+   "zh": "挑戰",
+   "weight": 900,
+   "color": "#adadad",
+   "stroke": "#001030",
+   "stroke_w": 1,
+   "spacing": 2
+  }
+ ]
+}

@@ -1,0 +1,33 @@
+{
+ "erase": [
+  {
+   "rect": [
+    0,
+    0,
+    182,
+    30
+   ],
+   "mode": "clear"
+  }
+ ],
+ "blocks": [
+  {
+   "rect": [
+    0,
+    0,
+    182,
+    30
+   ],
+   "zh": "快速競賽",
+   "weight": 900,
+   "color": [
+    "#ffffff",
+    "#d0d0ff"
+   ],
+   "stroke": "#0000ff",
+   "stroke_w": 3,
+   "align": "left",
+   "spacing": 1
+  }
+ ]
+}

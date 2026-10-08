@@ -1,0 +1,30 @@
+{
+ "erase": [
+  {
+   "rect": [
+    138,
+    409,
+    488,
+    431
+   ],
+   "mode": "interpv"
+  }
+ ],
+ "blocks": [
+  {
+   "rect": [
+    136,
+    408,
+    492,
+    430
+   ],
+   "zh": "通關所有小隊的故事吧！",
+   "weight": 500,
+   "color": "#ffffff",
+   "stroke": "#0a2050",
+   "stroke_w": 1.5,
+   "size": 22,
+   "spacing": 1
+  }
+ ]
+}

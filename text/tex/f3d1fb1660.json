@@ -1,0 +1,1 @@
+{"erase": [{"rect": [0, 0, 200, 40], "mode": "clear"}], "blocks": [{"rect": [2, 4, 132, 27], "zh": "劇情BGM", "weight": 900, "color": "#ffffff", "shadow": {"dx": 1, "dy": 1, "color": "#22222280"}, "align": "left"}]}

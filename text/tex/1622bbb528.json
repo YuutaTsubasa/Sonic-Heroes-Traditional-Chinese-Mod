@@ -1,0 +1,1 @@
+{"erase": [{"rect": [0, 0, 256, 32], "mode": "clear"}], "blocks": [{"rect": [1, 8, 250, 32], "zh": "瘋狂特快車", "size": 21, "weight": 900, "color": ["#ffffff", "#c6cee7"], "stroke": "#101018", "stroke_w": 1, "shadow": {"dx": 1, "dy": 1, "color": "#000000ff"}, "italic": 0.12, "align": "left"}]}

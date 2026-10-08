@@ -1,0 +1,1 @@
+{"erase": [{"rect": [44, 4, 92, 17], "mode": "interp"}, {"rect": [5, 20, 126, 51], "mode": "interp"}], "blocks": [{"rect": [44, 3, 92, 18], "zh": "小隊", "size": 13, "weight": 900, "color": "#000000"}, {"rect": [5, 20, 126, 51], "zh": "蘿絲", "size": 24, "weight": 900, "color": "#ff8484"}]}

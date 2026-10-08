@@ -1,0 +1,30 @@
+{
+ "erase": [
+  {
+   "rect": [
+    154,
+    261,
+    488,
+    289
+   ],
+   "mode": "interpv"
+  }
+ ],
+ "blocks": [
+  {
+   "rect": [
+    150,
+    261,
+    492,
+    288
+   ],
+   "zh": "挑戰超級困難模式！",
+   "weight": 500,
+   "color": "#ffffff",
+   "stroke": "#3a2040",
+   "stroke_w": 1.8,
+   "size": 27,
+   "spacing": 10
+  }
+ ]
+}

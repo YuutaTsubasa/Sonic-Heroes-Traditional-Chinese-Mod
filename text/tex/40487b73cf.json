@@ -1,0 +1,1 @@
+{"erase": [{"rect": [116, 22, 272, 48], "mode": "interp"}], "blocks": [{"rect": [116, 22, 300, 48], "zh": "蛋頭艦隊", "size": 19, "weight": 900, "color": "#ffffff", "shadow": {"dx": 2, "dy": 2, "color": "#600000c0"}, "italic": 0.18, "align": "left"}]}

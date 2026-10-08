@@ -1,0 +1,39 @@
+{
+ "erase": [
+  {
+   "rect": [
+    0,
+    0,
+    256,
+    64
+   ],
+   "mode": "clear"
+  }
+ ],
+ "blocks": [
+  {
+   "rect": [
+    2,
+    0,
+    254,
+    41
+   ],
+   "zh": "車站",
+   "weight": 900,
+   "size": 36,
+   "color": [
+    "#a9b8d4",
+    "#ffffff"
+   ],
+   "stroke": "#3a424e",
+   "stroke_w": 1.5,
+   "shadow": {
+    "dx": 1.5,
+    "dy": 1.5,
+    "color": "#101418d0"
+   },
+   "align": "left",
+   "spacing": 2
+  }
+ ]
+}

@@ -1,0 +1,1 @@
+{"erase": [{"rect": [0, 0, 136, 30], "mode": "clear"}], "blocks": [{"rect": [3, 2, 134, 28], "zh": "關卡BGM", "size": 23, "weight": 900, "color": "#ffffff", "shadow": {"dx": 1, "dy": 1, "color": "#bbbbbbff"}, "align": "left"}]}

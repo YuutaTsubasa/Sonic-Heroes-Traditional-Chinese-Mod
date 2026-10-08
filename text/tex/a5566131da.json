@@ -1,0 +1,1 @@
+{"erase": [{"rect": [0, 0, 256, 32], "mode": "clear"}], "blocks": [{"rect": [8, 4, 248, 29], "zh": "金屬霸王", "weight": 900, "size": 24, "color": ["#ffffff", "#c6cee0"], "stroke": "#393939", "stroke_w": 1, "shadow": {"dx": 1.5, "dy": 2, "color": "#4a4a52ff"}, "align": "center", "spacing": 4}]}

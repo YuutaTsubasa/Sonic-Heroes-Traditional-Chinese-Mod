@@ -1,0 +1,35 @@
+{
+ "erase": [
+  {
+   "rect": [
+    60,
+    4,
+    452,
+    62
+   ],
+   "mode": "clear"
+  }
+ ],
+ "blocks": [
+  {
+   "rect": [
+    66,
+    8,
+    446,
+    56
+   ],
+   "zh": "特別關卡",
+   "weight": 900,
+   "size": 44,
+   "color": "#000000",
+   "stroke": "#ffffff",
+   "stroke_w": 4,
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#606060ff"
+   },
+   "spacing": 10
+  }
+ ]
+}

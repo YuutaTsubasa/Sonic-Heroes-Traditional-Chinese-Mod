@@ -1,0 +1,29 @@
+{
+ "erase": [
+  {
+   "rect": [
+    54,
+    2,
+    142,
+    30
+   ],
+   "mode": "interp"
+  }
+ ],
+ "blocks": [
+  {
+   "rect": [
+    58,
+    4,
+    140,
+    30
+   ],
+   "zh": "語言",
+   "weight": 700,
+   "color": "#ffffff",
+   "stroke": "#ef3100",
+   "stroke_w": 2.5,
+   "spacing": 18
+  }
+ ]
+}

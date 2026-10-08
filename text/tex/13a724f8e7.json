@@ -1,0 +1,1 @@
+{"erase": [{"rect": [0, 0, 128, 32], "mode": "clear"}], "blocks": [{"rect": [1, 3, 127, 29], "zh": "蘿絲小隊", "size": 22, "weight": 900, "color": ["#ffffff", "#c6cee7"], "shadow": {"dx": 2, "dy": 2, "color": "#000000ff"}, "spacing": 0}]}

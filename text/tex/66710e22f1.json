@@ -1,0 +1,33 @@
+{
+ "erase": [
+  {
+   "rect": [
+    0,
+    0,
+    130,
+    34
+   ],
+   "mode": "clear"
+  }
+ ],
+ "blocks": [
+  {
+   "rect": [
+    0,
+    0,
+    130,
+    34
+   ],
+   "zh": "選項",
+   "weight": 900,
+   "color": [
+    "#ffffff",
+    "#d0d0ff"
+   ],
+   "stroke": "#0000ff",
+   "stroke_w": 3,
+   "align": "left",
+   "spacing": 1
+  }
+ ]
+}

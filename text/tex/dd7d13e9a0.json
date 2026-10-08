@@ -1,0 +1,1 @@
+{"erase": [{"rect": [0, 0, 200, 40], "mode": "clear"}], "blocks": [{"rect": [2, 1, 117, 23], "zh": "主題曲", "weight": 900, "color": "#9c9c9c", "shadow": {"dx": 1, "dy": 1, "color": "#22222280"}, "align": "left"}]}

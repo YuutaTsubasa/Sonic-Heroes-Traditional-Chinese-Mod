@@ -1,0 +1,1 @@
+{"erase": [{"rect": [44, 4, 89, 17], "mode": "fill", "color": "#c6c6c6ff"}, {"rect": [6, 21, 125, 51], "mode": "interp"}], "blocks": [{"rect": [42, 3, 91, 18], "zh": "小隊", "weight": 900, "size": 14, "color": "#000000", "align": "center", "spacing": 3}, {"rect": [10, 23, 122, 48], "zh": "索尼克", "weight": 900, "size": 23, "color": "#00ceff", "align": "center", "spacing": 3}]}

@@ -1,0 +1,27 @@
+{
+ "erase": [
+  {
+   "rect": [
+    0,
+    0,
+    132,
+    42
+   ],
+   "mode": "clear"
+  }
+ ],
+ "blocks": [
+  {
+   "rect": [
+    28,
+    9,
+    104,
+    33
+   ],
+   "zh": "複製",
+   "weight": 500,
+   "color": "#ffffff",
+   "spacing": 24
+  }
+ ]
+}

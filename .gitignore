@@ -1,0 +1,8 @@
+# game data, build output and anything derived from the disc: never commit
+work/
+out/
+text/ja/
+text/tm.json
+text/.lock
+__pycache__/
+*.pyc

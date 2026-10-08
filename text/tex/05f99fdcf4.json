@@ -1,0 +1,1 @@
+{"erase": [{"rect": [50, 75, 510, 150], "mode": "fill", "color": "#000055b6"}], "blocks": [{"rect": [50, 84, 510, 110], "zh": "畫面顯示模式已設定為", "size": 21, "weight": 400, "color": "#ffffff"}, {"rect": [50, 113, 510, 139], "zh": "交錯掃描模式。", "size": 21, "weight": 400, "color": "#ffffff"}]}

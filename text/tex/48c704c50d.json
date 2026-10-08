@@ -1,0 +1,29 @@
+{
+ "erase": [
+  {
+   "rect": [
+    0,
+    0,
+    64,
+    16
+   ],
+   "mode": "fill",
+   "color": "#f8f8f8ff"
+  }
+ ],
+ "blocks": [
+  {
+   "rect": [
+    1,
+    0,
+    63,
+    16
+   ],
+   "zh": "任務",
+   "weight": 900,
+   "size": 14,
+   "color": "#1000f0",
+   "spacing": 4
+  }
+ ]
+}

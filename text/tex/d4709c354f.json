@@ -1,0 +1,1 @@
+{"erase": [{"rect": [24, 3, 210, 38], "mode": "interp"}], "blocks": [{"rect": [27, 6, 300, 37], "zh": "海洋宮殿", "weight": 900, "size": 27, "color": "#ffffff", "shadow": {"dx": 2.5, "dy": 2.5, "color": "#9c9c9cff"}, "align": "left"}]}

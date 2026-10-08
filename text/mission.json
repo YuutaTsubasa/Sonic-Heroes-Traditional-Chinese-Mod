@@ -1,0 +1,514 @@
+[
+ {
+  "files": [
+   "stg01CExJ00.bmp"
+  ],
+  "zh": "找出全部２０隻寄居蟹！"
+ },
+ {
+  "files": [
+   "stg01CJ00.bmp"
+  ],
+  "zh": "找到１０隻寄居蟹！"
+ },
+ {
+  "files": [
+   "stg01DExJ00.bmp",
+   "stg02DExJ00.bmp",
+   "stg03DExJ00.bmp",
+   "stg04DExJ00.bmp",
+   "stg05DExJ00.bmp",
+   "stg06DExJ00.bmp",
+   "stg07DExJ00.bmp",
+   "stg08DExJ00.bmp",
+   "stg09DExJ00.bmp",
+   "stg10DExJ00.bmp",
+   "stg11DExJ00.bmp",
+   "stg12DExJ00.bmp",
+   "stg13DExJ00.bmp",
+   "stg14DExJ00.bmp"
+  ],
+  "zh": "摧毀１００個敵人！"
+ },
+ {
+  "files": [
+   "stg01DJ00.bmp",
+   "stg01SJ00.bmp"
+  ],
+  "zh": "前往鯨魚島！"
+ },
+ {
+  "files": [
+   "stg01RExJ00.bmp",
+   "stg02RExJ00.bmp",
+   "stg03RExJ00.bmp",
+   "stg04RExJ00.bmp",
+   "stg05RExJ00.bmp",
+   "stg06RExJ00.bmp",
+   "stg07RExJ00.bmp",
+   "stg08RExJ00.bmp",
+   "stg09RExJ00.bmp",
+   "stg10RExJ00.bmp",
+   "stg11RExJ00.bmp",
+   "stg12RExJ00.bmp",
+   "stg13RExJ00.bmp",
+   "stg14RExJ00.bmp"
+  ],
+  "zh": "收集２００個金環吧！"
+ },
+ {
+  "files": [
+   "stg01RJ00.bmp"
+  ],
+  "zh": "到大海的另一頭看看吧！"
+ },
+ {
+  "files": [
+   "stg01SExJ00.bmp",
+   "stg02SExJ00.bmp",
+   "stg03SExJ00.bmp",
+   "stg05SExJ00.bmp",
+   "stg07SExJ00.bmp",
+   "stg09SExJ00.bmp"
+  ],
+  "zh": "在５分鐘內抵達終點！"
+ },
+ {
+  "files": [
+   "stg02CExJ00.bmp"
+  ],
+  "zh": "別被敵人發現，救出巧歐"
+ },
+ {
+  "files": [
+   "stg02CJ00.bmp"
+  ],
+  "zh": "救出宮殿深處的巧歐！"
+ },
+ {
+  "files": [
+   "stg02DJ00.bmp",
+   "stg02SJ00.bmp"
+  ],
+  "zh": "逃出海洋宮殿！"
+ },
+ {
+  "files": [
+   "stg02RJ00.bmp"
+  ],
+  "zh": "探索浮在海上的遺跡吧！"
+ },
+ {
+  "files": [
+   "stg03CExJ00.bmp"
+  ],
+  "zh": "在８分鐘內掃蕩敵人！"
+ },
+ {
+  "files": [
+   "stg03CJ00.bmp"
+  ],
+  "zh": "掃蕩橫行街頭的敵人！"
+ },
+ {
+  "files": [
+   "stg03DJ00.bmp"
+  ],
+  "zh": "痛擊被蛋頭博士占領的城市！"
+ },
+ {
+  "files": [
+   "stg03RJ00.bmp"
+  ],
+  "zh": "在現代都市裡逛逛吧！"
+ },
+ {
+  "files": [
+   "stg03SJ00.bmp"
+  ],
+  "zh": "拯救被蛋頭博士占領的城市！"
+ },
+ {
+  "files": [
+   "stg04CExJ00.bmp"
+  ],
+  "zh": "打倒５隻金色烏龜機器人！"
+ },
+ {
+  "files": [
+   "stg04CJ00.bmp"
+  ],
+  "zh": "打倒３隻金色烏龜機器人！"
+ },
+ {
+  "files": [
+   "stg04DJ00.bmp",
+   "stg04SJ00.bmp"
+  ],
+  "zh": "逃出失控的發電廠！"
+ },
+ {
+  "files": [
+   "stg04RJ00.bmp"
+  ],
+  "zh": "從能源工廠逃出去吧！"
+ },
+ {
+  "files": [
+   "stg04SExJ00.bmp",
+   "stg13SExJ00.bmp",
+   "stg14SExJ00.bmp"
+  ],
+  "zh": "在９分鐘內抵達終點！"
+ },
+ {
+  "files": [
+   "stg05CExJ00.bmp"
+  ],
+  "zh": "賺到５００個金環！"
+ },
+ {
+  "files": [
+   "stg05CJ00.bmp"
+  ],
+  "zh": "賺到２００個金環！"
+ },
+ {
+  "files": [
+   "stg05DJ00.bmp",
+   "stg05SJ00.bmp"
+  ],
+  "zh": "穿越巨大的主題樂園！"
+ },
+ {
+  "files": [
+   "stg05RJ00.bmp"
+  ],
+  "zh": "在巨大彈珠台上玩吧！"
+ },
+ {
+  "files": [
+   "stg06CExJ00.bmp"
+  ],
+  "zh": "回收全部２０枚籌碼！"
+ },
+ {
+  "files": [
+   "stg06CJ00.bmp"
+  ],
+  "zh": "收集１０枚賭場籌碼！"
+ },
+ {
+  "files": [
+   "stg06DJ00.bmp",
+   "stg06SJ00.bmp"
+  ],
+  "zh": "衝過高速滑道！"
+ },
+ {
+  "files": [
+   "stg06RJ00.bmp"
+  ],
+  "zh": "在賓果滑道上玩吧！"
+ },
+ {
+  "files": [
+   "stg06SExJ00.bmp",
+   "stg08SExJ00.bmp",
+   "stg10SExJ00.bmp",
+   "stg11SExJ00.bmp"
+  ],
+  "zh": "在６分鐘內抵達終點！"
+ },
+ {
+  "files": [
+   "stg07CExJ00.bmp"
+  ],
+  "zh": "在６分鐘內潛入總站"
+ },
+ {
+  "files": [
+   "stg07CJ00.bmp"
+  ],
+  "zh": "潛入總站！"
+ },
+ {
+  "files": [
+   "stg07DJ00.bmp"
+  ],
+  "zh": "找出蛋頭博士基地的入口！"
+ },
+ {
+  "files": [
+   "stg07RJ00.bmp"
+  ],
+  "zh": "沿著鐵軌往前走吧！"
+ },
+ {
+  "files": [
+   "stg07SJ00.bmp"
+  ],
+  "zh": "前往總站！"
+ },
+ {
+  "files": [
+   "stg08CExJ00.bmp"
+  ],
+  "zh": "摧毀所有膠囊！"
+ },
+ {
+  "files": [
+   "stg08CJ00.bmp"
+  ],
+  "zh": "摧毀３０個膠囊！"
+ },
+ {
+  "files": [
+   "stg08DJ00.bmp"
+  ],
+  "zh": "殲滅蛋頭博士基地！"
+ },
+ {
+  "files": [
+   "stg08RJ00.bmp"
+  ],
+  "zh": "去找蛋頭博士的基地吧！"
+ },
+ {
+  "files": [
+   "stg08SJ00.bmp"
+  ],
+  "zh": "摧毀蛋頭博士基地！"
+ },
+ {
+  "files": [
+   "stg09CExJ00.bmp"
+  ],
+  "zh": "別被青蛙發現，快點前進！"
+ },
+ {
+  "files": [
+   "stg09CJ00.bmp"
+  ],
+  "zh": "別被青蛙發現，穿越森林！"
+ },
+ {
+  "files": [
+   "stg09DJ00.bmp",
+   "stg09SJ00.bmp"
+  ],
+  "zh": "在野生動物棲息的森林前進！"
+ },
+ {
+  "files": [
+   "stg09RJ00.bmp"
+  ],
+  "zh": "探索青蛙棲息的森林吧！"
+ },
+ {
+  "files": [
+   "stg10CExJ00.bmp"
+  ],
+  "zh": "救出２０隻巧歐！"
+ },
+ {
+  "files": [
+   "stg10CJ00.bmp"
+  ],
+  "zh": "救出１０隻巧歐！"
+ },
+ {
+  "files": [
+   "stg10DJ00.bmp",
+   "stg10SJ00.bmp"
+  ],
+  "zh": "突破叢林的最深處！"
+ },
+ {
+  "files": [
+   "stg10RJ00.bmp"
+  ],
+  "zh": "逃出叢林吧！"
+ },
+ {
+  "files": [
+   "stg11CExJ00.bmp"
+  ],
+  "zh": "別被敵人發現，收集鑰匙！"
+ },
+ {
+  "files": [
+   "stg11CJ00.bmp"
+  ],
+  "zh": "取得神祕城堡的鑰匙！"
+ },
+ {
+  "files": [
+   "stg11DJ00.bmp"
+  ],
+  "zh": "衝進古怪的城堡！"
+ },
+ {
+  "files": [
+   "stg11RJ00.bmp"
+  ],
+  "zh": "探索神奇的城堡看看吧！"
+ },
+ {
+  "files": [
+   "stg11SJ00.bmp"
+  ],
+  "zh": "潛入不可思議的城堡！"
+ },
+ {
+  "files": [
+   "stg12CExJ00.bmp"
+  ],
+  "zh": "熄滅所有藍色火把！"
+ },
+ {
+  "files": [
+   "stg12CJ00.bmp"
+  ],
+  "zh": "熄滅所有紅色火把！"
+ },
+ {
+  "files": [
+   "stg12DJ00.bmp"
+  ],
+  "zh": "逃出瘋狂的城堡！"
+ },
+ {
+  "files": [
+   "stg12RJ00.bmp"
+  ],
+  "zh": "從鬼屋逃出去吧！"
+ },
+ {
+  "files": [
+   "stg12SExJ00.bmp"
+  ],
+  "zh": "在７分鐘內抵達終點！"
+ },
+ {
+  "files": [
+   "stg12SJ00.bmp"
+  ],
+  "zh": "逃出被詛咒的城堡！"
+ },
+ {
+  "files": [
+   "stg13CExJ00.bmp"
+  ],
+  "zh": "別被敵人察覺，快趕往戰艦！"
+ },
+ {
+  "files": [
+   "stg13CJ00.bmp"
+  ],
+  "zh": "別被敵人發現，潛入戰艦！"
+ },
+ {
+  "files": [
+   "stg13DJ00.bmp",
+   "stg13SJ00.bmp"
+  ],
+  "zh": "前往蛋頭艦隊的旗艦！"
+ },
+ {
+  "files": [
+   "stg13RJ00.bmp"
+  ],
+  "zh": "去找蛋頭博士的飛行船吧！"
+ },
+ {
+  "files": [
+   "stg14CExJ00.bmp"
+  ],
+  "zh": "找出10把牢房鑰匙！"
+ },
+ {
+  "files": [
+   "stg14CJ00.bmp"
+  ],
+  "zh": "找到委託人牢房的鑰匙！"
+ },
+ {
+  "files": [
+   "stg14DJ00.bmp"
+  ],
+  "zh": "前往蛋頭博士所在的中心部！"
+ },
+ {
+  "files": [
+   "stg14RJ00.bmp"
+  ],
+  "zh": "快趕去蛋頭博士所在的地方吧！"
+ },
+ {
+  "files": [
+   "stg14SJ00.bmp"
+  ],
+  "zh": "痛擊旗艦的核心！"
+ },
+ {
+  "files": [
+   "stg29J00.bmp"
+  ],
+  "zh": "練習小隊行動吧！"
+ },
+ {
+  "files": [
+   "stg31J00.bmp"
+  ],
+  "zh": "比對手先跑完賽道３圈！"
+ },
+ {
+  "files": [
+   "stg40J00.bmp"
+  ],
+  "zh": "　　獎勵挑戰！"
+ },
+ {
+  "files": [
+   "stg60J00.bmp"
+  ],
+  "zh": "比對手先抵達終點！"
+ },
+ {
+  "files": [
+   "stg63J00.bmp"
+  ],
+  "zh": "把對手打出場外！"
+ },
+ {
+  "files": [
+   "stg66J00.bmp"
+  ],
+  "zh": "在限制時間內收集金環！"
+ },
+ {
+  "files": [
+   "stg69J00.bmp"
+  ],
+  "zh": "速攻決勝！　衝向終點！"
+ },
+ {
+  "files": [
+   "stg72J00.bmp"
+  ],
+  "zh": "巔峰對決！　衝向終點！"
+ },
+ {
+  "files": [
+   "stg80J00.bmp"
+  ],
+  "zh": "　翡翠挑戰！"
+ },
+ {
+  "files": [
+   "stg87J00.bmp"
+  ],
+  "zh": "奪取混沌翡翠！"
+ }
+]

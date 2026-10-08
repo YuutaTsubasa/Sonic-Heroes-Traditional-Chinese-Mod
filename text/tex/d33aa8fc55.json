@@ -1,0 +1,1 @@
+{"erase": [{"rect": [0, 0, 256, 32], "mode": "clear"}], "blocks": [{"rect": [1, 7, 256, 32], "zh": "海濱山丘", "weight": 900, "color": ["#cdd4ea", "#f8f8fd"], "stroke": "#101018", "stroke_w": 1, "shadow": {"dx": 2, "dy": 2, "color": "#000000ff"}, "italic": 0, "align": "left", "squeeze": true}]}

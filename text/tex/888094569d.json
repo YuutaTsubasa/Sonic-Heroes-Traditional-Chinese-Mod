@@ -1,0 +1,6 @@
+{"erase": [{"mode": "plates", "rect": [0, 0, 1, 1], "rects": [[78, 186, 410, 266], [96, 258, 392, 342]],
+            "radius": 16, "color": "#14141eff", "border": 5, "border_color": "#ffffffff"}],
+ "blocks": [{"rect": [84, 186, 404, 266], "zh": "索尼克", "weight": 900, "size": 76,
+             "color": ["#ffffff", "#7f93cf"], "stroke": "#2c2c44", "stroke_w": 3, "spacing": 12, "italic": 0.12},
+            {"rect": [100, 260, 388, 340], "zh": "英雄", "weight": 900, "size": 76,
+             "color": ["#ffffff", "#7f93cf"], "stroke": "#2c2c44", "stroke_w": 3, "spacing": 44, "italic": 0.12}]}

@@ -1,0 +1,28 @@
+{
+ "erase": [
+  {
+   "rect": [
+    0,
+    0,
+    134,
+    18
+   ],
+   "mode": "clear"
+  }
+ ],
+ "blocks": [
+  {
+   "rect": [
+    1,
+    1,
+    133,
+    17
+   ],
+   "zh": "關卡選擇",
+   "weight": 900,
+   "color": "#ffffff",
+   "align": "left",
+   "spacing": 1
+  }
+ ]
+}

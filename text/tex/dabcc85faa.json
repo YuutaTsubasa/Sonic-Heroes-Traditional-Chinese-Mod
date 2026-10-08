@@ -1,0 +1,1 @@
+{"erase": [{"rect": [110, 90, 455, 125], "mode": "fill", "color": "#000055b6"}], "blocks": [{"rect": [60, 94, 500, 121], "zh": "要以 60Hz 模式顯示嗎？", "weight": 400, "size": 25, "color": "#ffffff", "align": "center"}]}

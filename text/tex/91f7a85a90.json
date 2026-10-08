@@ -1,0 +1,33 @@
+{
+ "erase": [
+  {
+   "rect": [
+    0,
+    0,
+    162,
+    34
+   ],
+   "mode": "clear"
+  }
+ ],
+ "blocks": [
+  {
+   "rect": [
+    0,
+    0,
+    162,
+    34
+   ],
+   "zh": "遊戲資料",
+   "weight": 700,
+   "color": [
+    "#ffffff",
+    "#d0d0ff"
+   ],
+   "stroke": "#0000ff",
+   "stroke_w": 3,
+   "align": "left",
+   "spacing": 1
+  }
+ ]
+}

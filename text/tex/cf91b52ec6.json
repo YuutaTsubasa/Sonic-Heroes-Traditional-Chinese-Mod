@@ -1,0 +1,1 @@
+{"erase": [{"rect": [46, 6, 96, 28], "mode": "fill", "color": "#1084ffff"}, {"rect": [222, 6, 272, 28], "mode": "fill", "color": "#1084ffff"}], "blocks": [{"rect": [47, 6, 110, 28], "zh": "確定", "weight": 500, "size": 23, "color": "#ffffff", "align": "left"}, {"rect": [223, 6, 290, 28], "zh": "返回", "weight": 500, "size": 23, "color": "#ffffff", "align": "left"}]}

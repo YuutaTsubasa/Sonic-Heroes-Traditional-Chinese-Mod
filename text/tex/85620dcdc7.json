@@ -1,0 +1,28 @@
+{
+ "erase": [
+  {
+   "rect": [
+    0,
+    0,
+    118,
+    24
+   ],
+   "mode": "clear"
+  }
+ ],
+ "blocks": [
+  {
+   "rect": [
+    4,
+    3,
+    117,
+    21
+   ],
+   "zh": "主題曲",
+   "weight": 900,
+   "color": "#9c9c9c",
+   "align": "left",
+   "spacing": 1
+  }
+ ]
+}

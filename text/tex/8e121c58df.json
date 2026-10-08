@@ -1,0 +1,28 @@
+{
+ "erase": [
+  {
+   "rect": [
+    60,
+    6,
+    200,
+    31
+   ],
+   "mode": "interp"
+  }
+ ],
+ "blocks": [
+  {
+   "rect": [
+    70,
+    7,
+    190,
+    30
+   ],
+   "zh": "立體聲",
+   "weight": 500,
+   "color": "#ffffff",
+   "spacing": 3,
+   "size": 26
+  }
+ ]
+}

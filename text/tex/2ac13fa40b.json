@@ -1,0 +1,1 @@
+{"erase": [{"rect": [0, 0, 216, 32], "mode": "clear"}], "blocks": [{"rect": [2, 0, 214, 32], "zh": "主選單", "size": 32, "weight": 900, "color": ["#00b4f0", "#ffffff"], "stroke": "#333333", "stroke_w": 2.5, "italic": 0.15, "spacing": 12}]}

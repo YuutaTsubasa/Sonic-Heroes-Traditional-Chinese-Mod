@@ -1,0 +1,37 @@
+{
+ "erase": [
+  {
+   "rect": [
+    0,
+    0,
+    256,
+    32
+   ],
+   "mode": "clear"
+  }
+ ],
+ "blocks": [
+  {
+   "rect": [
+    24,
+    5,
+    232,
+    28
+   ],
+   "zh": "蛋頭皇帝號",
+   "weight": 900,
+   "color": [
+    "#ffffff",
+    "#bcc6e0"
+   ],
+   "stroke": "#5a5a63",
+   "stroke_w": 0.6,
+   "spacing": 3,
+   "shadow": {
+    "dx": 1,
+    "dy": 1,
+    "color": "#000000ff"
+   }
+  }
+ ]
+}

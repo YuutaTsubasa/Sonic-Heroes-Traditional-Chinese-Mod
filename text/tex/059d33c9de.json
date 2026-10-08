@@ -1,0 +1,1 @@
+{"erase": [{"rect": [30, 5, 128, 32], "mode": "interp"}], "blocks": [{"rect": [30, 5, 128, 32], "zh": "開啟", "size": 22, "weight": 500, "color": "#8c8c8c", "spacing": 22, "shadow": {"dx": 1, "dy": 1, "color": "#00000080"}}]}

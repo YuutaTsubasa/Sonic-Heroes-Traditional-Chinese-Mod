@@ -1,0 +1,30 @@
+{
+ "erase": [
+  {
+   "rect": [
+    165,
+    400,
+    470,
+    422
+   ],
+   "mode": "interpv"
+  }
+ ],
+ "blocks": [
+  {
+   "rect": [
+    160,
+    400,
+    476,
+    422
+   ],
+   "zh": "通關最終故事吧！",
+   "weight": 500,
+   "color": "#ffffff",
+   "stroke": "#0a1020",
+   "stroke_w": 1.5,
+   "size": 22,
+   "spacing": 1
+  }
+ ]
+}

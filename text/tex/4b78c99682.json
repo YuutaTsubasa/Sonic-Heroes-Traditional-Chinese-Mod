@@ -1,0 +1,28 @@
+{
+ "erase": [
+  {
+   "rect": [
+    114,
+    24,
+    292,
+    45
+   ],
+   "mode": "interp"
+  }
+ ],
+ "blocks": [
+  {
+   "rect": [
+    117,
+    24,
+    300,
+    44
+   ],
+   "zh": "大都會",
+   "weight": 900,
+   "color": "#b5b5b5",
+   "align": "left",
+  "spacing": 2
+  }
+ ]
+}

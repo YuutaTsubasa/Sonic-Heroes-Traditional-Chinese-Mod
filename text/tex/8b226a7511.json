@@ -1,0 +1,32 @@
+{
+ "erase": [
+  {
+   "rect": [
+    8,
+    9,
+    122,
+    37
+   ],
+   "mode": "interp"
+  }
+ ],
+ "blocks": [
+  {
+   "rect": [
+    20,
+    9,
+    110,
+    37
+   ],
+   "zh": "最終",
+   "weight": 900,
+   "color": [
+    "#f4f8ff",
+    "#4a9ad6"
+   ],
+   "stroke": "#313139",
+   "stroke_w": 1.2,
+   "spacing": 3
+  }
+ ]
+}
